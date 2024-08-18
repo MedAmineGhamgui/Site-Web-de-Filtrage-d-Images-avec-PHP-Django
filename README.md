@@ -21,12 +21,12 @@ Ce projet consiste en le développement d'un site web dédié au filtrage d'imag
 
 **demo**
 
-![Image 2](images/2.png)
-![Image 3](images/3.png)
-![Image 4](images/4.png)
-![Image 5](images/5.png)
-![Image 6](images/6.png)
-![Image 7](images/7.png)
+![Image 2](2.png)
+![Image 3](3.png)
+![Image 4](4.png)
+![Image 5](5.png)
+![Image 6](6.png)
+![Image 7](7.png)
 
 ---
 Cette version est développée par Mohamed Amine Ghamgui.
