@@ -19,6 +19,14 @@ Ce projet consiste en le développement d'un site web dédié au filtrage d'imag
 - **Interaction Dynamique** : Utilisation de JavaScript et jQuery pour des interactions en temps réel et la gestion des événements utilisateur.
 - **Dynamisme PHP** : PHP est utilisé pour ajouter des fonctionnalités dynamiques et gérer les aspects côté serveur du site.
 
+**demo**
+
+![Image 2](images/2.png)
+![Image 3](images/3.png)
+![Image 4](images/4.png)
+![Image 5](images/5.png)
+![Image 6](images/6.png)
+![Image 7](images/7.png)
 
 ---
 Cette version est développée par Mohamed Amine Ghamgui.
