@@ -8,7 +8,7 @@ Ce projet consiste en le développement d'un site web dédié au filtrage d'imag
 
 - **Django** : Framework backend pour la gestion des requêtes et la logique de filtrage des images.
 - **Python** : Langage de programmation principal pour le développement backend.
-- **PHP** : Assure la dynamisme du site et permet des fonctionnalités côté serveur supplémentaires.
+- **PHP** : Assure la dynamisme du site .
 - **JavaScript (jQuery)** : Pour interactions dynamiques.
 
 **Fonctionnalités principales :**
